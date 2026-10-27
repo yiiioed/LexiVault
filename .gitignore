@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LexiVault local environment configuration (keep shareable templates)
+.env.*
+!.env.example
+
+# Workspace metadata, caches and history
+.lexivault/
+
+# Local SQLite databases and companion files
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*

@@ -1,0 +1,7 @@
+qa/google-fonts.css
+qa/__pycache__/
+node_modules/
+.npm-cache/
+*.zip
+.DS_Store
+!deliverables/*.zip
