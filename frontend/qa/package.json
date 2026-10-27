@@ -1,0 +1,6 @@
+{
+  "name": "lexivault-ui-checks",
+  "private": true,
+  "description": "Browserless DOM and form checks; no runtime dependencies in the delivered site.",
+  "devDependencies": { "linkedom": "0.18.12" }
+}
